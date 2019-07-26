@@ -21,6 +21,6 @@ object ValuesVariablesTypes extends App {
   var aDouble: Double = 1.61
 
   // variables
-  var aVariable: int = 3
+  var aVariable: Int = 3
   aVariable = 2
 }
