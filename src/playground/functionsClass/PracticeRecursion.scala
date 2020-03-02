@@ -31,7 +31,7 @@ object PracticeRecursion extends App {
     else isPrimeHelper(n, 2)
   }
 
-  println(isPrimeRecursive(29)) 
+  println(isPrimeRecursive(29))
 
 
   def RegularFibonacci(n: Int): Int = {
